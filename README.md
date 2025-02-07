@@ -6,7 +6,19 @@
 
 #### Dataset details:
 
+The dataset contains user ratings for various anime titles, including metadata such as genre, release year, and studio. It consists of user-item interactions (ratings) and content-based information (anime attributes like genre, length, and more). The dataset may also include user demographic details for enhanced personalization. It is essential for training collaborative filtering and content-based filtering models.
+
 #### Packages & Libraries:
+
+Key libraries include:
+
+Pandas for data manipulation and cleaning.
+NumPy for numerical operations.
+Scikit-learn for machine learning algorithms and evaluation metrics.
+Surprise or Implicit for collaborative filtering.
+TensorFlow or PyTorch for deep learning models (if applicable).
+LightFM for hybrid recommendation systems.
+Matplotlib/Seaborn for data visualization and analysis.
 
 #### Project Environments & Links:
 
