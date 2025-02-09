@@ -2,7 +2,7 @@
 
 ## PROJECT OVERVIEW
 
-#### Key Findings:
+#### Key Findings: n/a
 
 #### Dataset details:
 
@@ -21,10 +21,11 @@ LightFM for hybrid recommendation systems.
 Matplotlib/Seaborn for data visualization and analysis.
 
 #### Project Environments & Links:
+1.Trello: https://trello.com/invite/b/67a21ea9d356d91ecce89571/ATTIecd8de66d7cd890fa9b9d46ed48d3b9a46A5E6A6/unsupervised-learning-project
 
 #### Environment: Anaconda
 
-#### Presentation: PowerPoint Slides for Visual Summaries
+#### Presentation: n/a
 
 #### Requirements.txt_file:
 1. Introduction
@@ -155,9 +156,9 @@ The dataset used in this analysis was collected from an authorized source (?????
 Challenges & Highlights_
 Challenge: Managing the large dataset size required optimizing code for efficiency and memory usage. To add on that it was SUPPER fun working this kind of a Project, really convinced that it is the most I enjoyed- guess this is because it's easy to see & understand "WHY & WHAT"_?? you doing --Much closer to HOME Project, otherwise all Project were quite FUN to do!!
 
-#### Highlight: 
+#### Highlight: n/a 
 
-Link To Presentation / Visual Summary_
+Link To Presentation / Visual Summary_: n/a
 For a quick overview of the project insights, view the presentation here. (attached to this Repo)
 
 #### Project Manager / Contributor:
