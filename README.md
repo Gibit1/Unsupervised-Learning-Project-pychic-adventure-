@@ -159,7 +159,6 @@ Challenge: Managing the large dataset size required optimizing code for efficien
 #### Highlight: n/a 
 
 Link To Presentation / Visual Summary_: n/a
-For a quick overview of the project insights, view the presentation here. (attached to this Repo)
 
 #### Project Manager / Contributor:
 Akona Ciko | Akona.Ciko@fnb.co.za / Akonaciko1@gmail.com | Gibit1 (GitHub username)
